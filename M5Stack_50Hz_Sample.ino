@@ -3,7 +3,7 @@
 // @od_1969
 // Version 0.01
 //
-// 以下のラジオペンチさんのBlogにあるサンプルコードを使用し作成しました。
+// 以下のラジオペンチさんのBlogにあるコードを使用し作成しました。
 // http://radiopench.blog96.fc2.com/blog-entry-1080.html
 //
 
